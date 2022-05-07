@@ -8,7 +8,7 @@ import java.util.Scanner;
  * n, using loop structure.
  */
 
-public class Exam 
+public class FibonacciNumber 
 {
 
 	public static void main(String[] args) 
