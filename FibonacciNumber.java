@@ -9,7 +9,6 @@ import java.util.Scanner;
 
 public class FibonacciNumber 
 {
-
 	public static void main(String[] args) 
 	{		
 		//variables
@@ -49,5 +48,4 @@ public class FibonacciNumber
 		keyboard.close();
 
 	}
-
 }
