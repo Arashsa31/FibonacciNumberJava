@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 /*
  * Fibonacci number
  * The Fibonacci Sequence is the series of numbers: 0, 1, 1, 2, 3, 5, 8,
